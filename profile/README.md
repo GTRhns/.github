@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="banner.jpg" alt="GTR HNS" width="100%" />
+
 # GTR HNS
 
 **CS 1.6 / AMX Mod X · Hide & Seek (HNS) 开源插件生态**
